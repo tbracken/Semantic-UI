@@ -499,10 +499,10 @@
 
 /* Red */
 .ui.red.segment:not(.inverted) {
-  border-top: 2px solid #DB2828;
+  border-top: 2px solid #f15d5d;
 }
 .ui.inverted.red.segment {
-  background-color: #DB2828 !important;
+  background-color: #f15d5d !important;
   color: #FFFFFF !important;
 }
 
@@ -535,10 +535,10 @@
 
 /* Green */
 .ui.green.segment:not(.inverted) {
-  border-top: 2px solid #21BA45;
+  border-top: 2px solid #60ce6c;
 }
 .ui.inverted.green.segment {
-  background-color: #21BA45 !important;
+  background-color: #60ce6c !important;
   color: #FFFFFF !important;
 }
 
@@ -553,10 +553,10 @@
 
 /* Blue */
 .ui.blue.segment:not(.inverted) {
-  border-top: 2px solid #2185D0;
+  border-top: 2px solid #188ee6;
 }
 .ui.inverted.blue.segment {
-  background-color: #2185D0 !important;
+  background-color: #188ee6 !important;
   color: #FFFFFF !important;
 }
 
