@@ -1,3 +1,42 @@
 /*******************************
      User Global Variables
 *******************************/
+
+/*---  Colors  ---*/
+@red              : #f15d5d;
+@orange           : #F2711C;
+@yellow           : #FBBD08;
+@olive            : #B5CC18;
+@green            : #60ce6c;
+@teal             : #00B5AD;
+@blue             : #d924da;
+@violet           : #6435C9;
+@purple           : #A333C8;
+@pink             : #E03997;
+@brown            : #A5673F;
+@grey             : #767676;
+@black            : #1B1C1D;
+
+@linkColor        : @blue;
+
+/*---  Light Colors  ---*/
+@lightRed         : #FF695E;
+@lightOrange      : #FF851B;
+@lightYellow      : #FFE21F;
+@lightOlive       : #D9E778;
+@lightGreen       : #69f178;
+@lightTeal        : #6DFFFF;
+@lightBlue        : #2bd8ff;
+@lightViolet      : #A291FB;
+@lightPurple      : #DC73FF;
+@lightPink        : #FF8EDF;
+@lightBrown       : #D67C1C;
+@lightGrey        : #DCDDDE;
+@lightBlack       : #545454;
+
+/*---   Neutrals  ---*/
+@fullBlack        : #000000;
+@offWhite         : #F9FAFB;
+@darkWhite        : #F3F4F5;
+@midWhite         : #DCDDDE;
+@white            : #FFFFFF;
